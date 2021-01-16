@@ -1,0 +1,22 @@
+{
+  "name": "audioconnectall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronev/AudioConnectAll.git"
+  },
+  "author": "Aaron Villanueva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronev/AudioConnectAll/issues"
+  },
+  "homepage": "https://github.com/aaronev/AudioConnectAll#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
